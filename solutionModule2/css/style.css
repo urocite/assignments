@@ -12,12 +12,13 @@ h1	{
 }
 
 #margindiv {
-	height: 150px;
+	height: 180px;
 	border: 1px solid black;
 	margin-left: 10px;
 	margin-right: 10px;
 	margin-bottom: 20px; 
 	background-color: grey;"
+	padding: 10px;
 }
 #title1	{
 	font-size: 20px;
