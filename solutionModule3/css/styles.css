@@ -28,8 +28,8 @@ div.container div.navbar-header {
 	font-weight: bold;
 	margin-top: 0;
 	margin-bottom: 0;
-	line-height: .75;
-	float: 
+	margin-right: 45px;
+	line-height: 0.9;
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
@@ -51,7 +51,6 @@ div.container div.navbar-header {
 li {
 	background-color: white
 	font-weight: bold;
-	text-align: center;
 	border-bottom: 1px solid black;
 	display: block;
 
